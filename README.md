@@ -1,0 +1,1 @@
+A simple maze runner animation for the [UM FeatherS3Neo](https://unexpectedmaker.com/shop.html#!/FeatherS3-Neo/p/662377927). Builds with PlatformIO. Forked from my other code so there's some vestigial stuff.
